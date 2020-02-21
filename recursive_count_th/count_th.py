@@ -6,7 +6,6 @@ Your function must utilize recursion. It cannot contain any loops.
 
 
 def count_th(word):
-
     if len(word) <= 1:
         return 0
 
@@ -17,3 +16,4 @@ def count_th(word):
 
 
 print(count_th("abcthxyz"))
+
